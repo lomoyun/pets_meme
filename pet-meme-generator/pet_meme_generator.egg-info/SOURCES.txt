@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+pet_meme_generator.egg-info/PKG-INFO
+pet_meme_generator.egg-info/SOURCES.txt
+pet_meme_generator.egg-info/dependency_links.txt
+pet_meme_generator.egg-info/requires.txt
+pet_meme_generator.egg-info/top_level.txt
+training/train.py
